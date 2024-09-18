@@ -1,0 +1,24 @@
+/* Employee-specific title */
+.employee-dashboard-title {
+    font-size: 24px;
+    color: #ad42f5;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Employee details styling */
+  .employee-details {
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f0f2f5;
+  }
+  
+  .employee-details h3 {
+    color: #333;
+  }
+  
+  .employee-details p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
