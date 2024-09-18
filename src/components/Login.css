@@ -1,4 +1,4 @@
-/* General styling for body */
+
 body {
   font-family: 'Arial', sans-serif;
   background: url('C:\Users\sb231\Downloads\pastel-blue-vignette-concrete-textured-background.jpg') no-repeat center center fixed;
@@ -12,7 +12,7 @@ body {
   height: 100vh;
 }
   
-  /* Container for login box */
+  
   .login-container {
     background-color: white;
     padding: 40px;
@@ -22,14 +22,14 @@ body {
     width: 100%;
   }
   
-  /* Styling the title */
+  
   .login-container h2 {
     text-align: center;
     margin-bottom: 20px;
     color: #333;
   }
   
-  /* Input field styling */
+  
   .login-container input[type="text"],
   .login-container input[type="password"] {
     width: 100%;
@@ -40,7 +40,7 @@ body {
     font-size: 16px;
   }
   
-  /* Submit button styling */
+  
   .login-container button {
     width: 100%;
     padding: 12px;
@@ -57,7 +57,7 @@ body {
     background-color: #45a049;
   }
   
-  /* Error message styling */
+ 
   .error-message {
     color: red;
     font-size: 14px;

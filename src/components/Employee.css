@@ -1,4 +1,4 @@
-/* Employee-specific title */
+
 .employee-dashboard-title {
     font-size: 24px;
     color: #ad42f5;
@@ -6,7 +6,7 @@
     text-align: center;
   }
   
-  /* Employee details styling */
+  
   .employee-details {
     padding: 20px;
     border-radius: 8px;
